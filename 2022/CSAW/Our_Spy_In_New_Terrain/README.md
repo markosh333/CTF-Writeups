@@ -11,6 +11,8 @@ It is up to you to determine who The Enemy is going to attack next and when they
 
 #### 2. What is the spy's github username?
 
+[Wayback Machine](https://web.archive.org/)
+
 #### 3. What is the full name of the file that contains communications between The Enemy and the Evil Spy?
 
 #### 4. Which country is the target based in?
