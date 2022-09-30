@@ -7,11 +7,13 @@ It is up to you to determine who The Enemy is going to attack next and when they
 
 #### 1. When did the enemy agent join twitter? Please use the format MM/YYYY
 
-![Enemy's Twitter Account](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_01.png)
+![Enemy's Twitter account](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_01.png)
 
 #### 2. What is the spy's github username?
 
 [Wayback Machine](https://web.archive.org/)
+
+![Wyback Machine results](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_02.png)
 
 #### 3. What is the full name of the file that contains communications between The Enemy and the Evil Spy?
 
