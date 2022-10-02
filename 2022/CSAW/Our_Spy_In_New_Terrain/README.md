@@ -21,4 +21,20 @@ It is up to you to determine who The Enemy is going to attack next and when they
 
 #### 5. What is the target's international Swift code?
 
+City
+
+Calgary
+
+Montreal
+
+Toronto
+
+Vancouver
+
+Toronto Swift code
+
+TDOMCATT
+
+TDOMCATTTOR
+
 #### 6. What is a crime?
