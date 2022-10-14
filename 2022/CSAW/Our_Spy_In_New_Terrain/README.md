@@ -25,6 +25,8 @@ It is up to you to determine who The Enemy is going to attack next and when they
 
 #### 3. What is the full name of the file that contains communications between The Enemy and the Evil Spy?
 
+![Profile](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_07.png)
+
 #### 4. Which country is the target based in?
 
 #### 5. What is the target's international Swift code?
