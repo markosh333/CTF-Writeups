@@ -31,7 +31,7 @@ Interesting. Now we can look at the different snapshots to find something. Let's
 
 <br>
 
-Again, after scrolling down we find a suspicious tweet from the enemy.
+Again, after scroll down but this time just a little we find a suspicious tweet from the enemy.
 
 ![Suspicious Tweet](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_04.png)
 
