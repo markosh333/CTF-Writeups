@@ -21,6 +21,8 @@ One possibility is that the enemy deleted some tweet related to his GitHub usern
 
 ![Wayback Machine results](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_02.png)
 
+<br>
+
 Interesting. Now we can look at the different snapshots to find something. Let's try the most recent snapshot.
 
 ![September 9, 2022 23:19:16 snapshot](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_03.png)
