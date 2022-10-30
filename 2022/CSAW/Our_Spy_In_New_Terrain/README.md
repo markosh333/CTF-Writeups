@@ -15,7 +15,7 @@ Well, this was the easy step. You just had to visit his profile.
 
 After scrolling down to the first tweet we can not find anything related to a GitHub account. So let's try something else.
 
-[Wayback Machine](https://web.archive.org/)
+One possibility is that the enemy deleted some tweet related to his GitHub username. We can use [Wayback Machine](https://web.archive.org/) to search for a deleted tweet.
 
 ![Wyback Machine results](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_02.png)
 
