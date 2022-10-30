@@ -35,6 +35,10 @@ Again, after scrolling down we find a suspicious tweet from the enemy.
 
 This confirms our hypothesis.
 
+<br>
+
+So let's check another snapshot, randomly I picked the one of August 20.
+
 ![August snapshot](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_05.png)
 
 ![GitHub](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_06.png)
