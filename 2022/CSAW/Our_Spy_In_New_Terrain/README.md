@@ -49,6 +49,8 @@ We found the enemy's GitHun username.
 
 ![enemy's GitHub username](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_06.png)
 
+<br>
+
 #### 3. What is the full name of the file that contains communications between The Enemy and the Evil Spy?
 
 ![Profile](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_07.png)
@@ -59,7 +61,11 @@ We found the enemy's GitHun username.
 
 ![suspicious file](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_10.png)
 
+<br>
+
 #### 4. Which country is the target based in?
+
+<br>
 
 #### 5. What is the target's international Swift code?
 
@@ -78,5 +84,7 @@ Toronto Swift code
 TDOMCATT
 
 TDOMCATTTOR
+
+<br>
 
 #### 6. What is a crime?
