@@ -45,13 +45,15 @@ So let's check another snapshot, randomly I picked the one of August 20.
 
 <br>
 
-We found the enemy's GitHun username.
+We found the enemy's GitHub username.
 
 ![enemy's GitHub username](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_06.png)
 
 <br>
 
 #### 3. What is the full name of the file that contains communications between The Enemy and the Evil Spy?
+
+Now let's visit the enemy's GitHub profile to see if we can find something.
 
 ![Profile](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_07.png)
 
