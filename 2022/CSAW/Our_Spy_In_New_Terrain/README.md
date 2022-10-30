@@ -23,7 +23,11 @@ Interesting. Now we can look at the different snapshots to find something. Let's
 
 ![September 9, 2022 23:19:16 snapshot](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_03.png)
 
+Again, after scrolling down we find a suspicious tweet from the enemy.
+
 ![Suspicious Tweet](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_04.png)
+
+This confirms our hypothesis.
 
 ![August snapshot](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_05.png)
 
