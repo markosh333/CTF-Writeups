@@ -17,7 +17,7 @@ After scrolling down to the first tweet we can not find anything related to a Gi
 
 One possibility is that the enemy deleted some tweet related to his GitHub username. We can use [Wayback Machine](https://web.archive.org/) to search for a deleted tweet.
 
-![Wyback Machine results](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_02.png)
+![Wayback Machine results](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_02.png)
 
 Interesting. Now we can look at the different snapshots to find something. Let's try the most recent snapshot.
 
