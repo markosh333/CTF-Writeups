@@ -3,6 +3,8 @@
 ### Description
 It is up to you to determine who The Enemy is going to attack next and when they plan to strike! Their newest recruit is on twitter as DarkRoom8109. Good luck. nc misc.chal.csaw.io 5005
 
+<br>
+
 ### Overview
 
 #### 1. When did the enemy agent join twitter? Please use the format MM/YYYY
@@ -39,9 +41,13 @@ This confirms our hypothesis.
 
 So let's check another snapshot, randomly I picked the one of August 20.
 
-![August snapshot](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_05.png)
+![August 20, snapshot](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_05.png)
 
-![GitHub](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_06.png)
+<br>
+
+We found the enemy's GitHun username.
+
+![enemy's GitHub username](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_06.png)
 
 #### 3. What is the full name of the file that contains communications between The Enemy and the Evil Spy?
 
