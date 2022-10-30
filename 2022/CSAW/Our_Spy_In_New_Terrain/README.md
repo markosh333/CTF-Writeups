@@ -13,6 +13,8 @@ Well, this was the easy step. You just had to visit his profile.
 
 #### 2. What is the spy's github username?
 
+After scrolling down to the first tweet we can not find anything related to a GitHub account. So let's try something else.
+
 [Wayback Machine](https://web.archive.org/)
 
 ![Wyback Machine results](https://github.com/markosh333/CTF-Writeups/blob/main/2022/CSAW/Our_Spy_In_New_Terrain/img_02.png)
